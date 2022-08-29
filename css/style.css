@@ -35,189 +35,65 @@ ul li{list-style: none;}
 img{vertical-align: top;}
 h1,h2,h3,h4,h5,h6{font-size:inderit;font-weight: 400;}
 
+body{
+	font-size: 20px;
+	padding: 3%;
+	background: gray;
+	height: 3000px;
+	width: 980px;
+}
 
-.example-1{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-	margin: 0px 100px 0px 100px;
-}	
-.example-2{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-	width: 1000px;
-	margin: 0px 0px 0px 100px;
-}
-.example-3{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-	height: 300px;
-	margin: 0px 100px 0px 100px;
-
-}	
-.example-4{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-	overflow: scroll;
-	max-height: 100px;
-	margin: 0px 100px 0px 100px;
-}
-.example-5{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px dotted #000 ;
-	margin: 0px 100px 0px 100px;
-
-}	
-.example-6{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px dashed #000 ;
-	margin: 0px 100px 0px 100px;
-}
-.example-7{
-	font-size: 25px;
-	padding: 20px;
-	border-top: 5px solid #000;
-	margin: 0px 100px 0px 100px;
-	border-left: none;
-	border-right: none;
-}	
-.example-8{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-	margin: 0px 100px 0px 100px;
-	border-radius: 50px;
-}
-.example-9{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-	margin: 0px 100px 0px 100px;
-	border-radius: 50px 0px 50px 0px;
-}	
-.example-10{
-	font-size: 50px;
-	overflow: hidden;
-	border: 5px solid #000 ;
-	width: 60px;
-	height: 60px;
-	border-radius: 50%;
+.block{
+	color: white;
+	font-weight: 1000;
+	font-size: 112px;
+	box-shadow: 0 0 10px #000;
+	border-radius: 15px;
+	height: 130px;
+	background: black;
+	width: 100%;
 	text-align: center;
-	margin: 0px 0px 0px 500px;
+	padding: 0% 0% 0% 0%;
 }
-.example-img{
-	border: 1px solid #000;
-	border-radius: 50%;
-	margin: 0px 0px 0px 500px;
-	box-shadow: 2px 3px 15px 5px, inset 2px 3px 15px 5px;
-}
-.example-11{
+.block1{
 	font-size: 25px;
+	color: red;
+	border-radius: 5px;
+	height: 10%;
+	background: darkgray;
+	width: 45%;
+	margin: 1% 0% 0% 3%;
 	padding: 10px;
-	border: 1px solid #000 ;
-	margin: 50px 100px 50px 100px;
-	box-shadow: 4px 4px 25px 3px;
-	border-radius: 10px;
-}	
-.example-12{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-	margin: 0px 100px 0px 100px;
-	opacity: 0.5;
 }
-.example-13{
+.block2{
 	font-size: 25px;
-	outline: 3px solid #000;
-}	
-.example-14{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
+	color: black;
+	border-radius: 5px;
+	height: 10%;
+	background: darkgray;
+	width: 45%;
+	margin: -31.8% 0% 0% 53%;
+	padding: 10px;
+
 }
-.example-15{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}	
-.example-16{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
+.info{
+	font-weight: 1000;
+	color: white;
+	font-size: 30px;
+	padding: 0 0 0 3%;
 }
-.example-17{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-	
-}	
-.example-18{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
+.info2{
+	font-weight: 1000;
+	color: white;
+	font-size: 30px;
+	padding: 0% 0% 0% 18.5%;
 }
-.example-19{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}	
-.example-20{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}
-.example-21{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}	
-.example-22{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}
-.example-23{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}	
-.example-24{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}
-.example-25{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}	
-.example-26{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}
-.example-27{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}	
-.example-28{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}
-.example-29{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000 ;
-}	
-.example-30{
-	font-size: 25px;
-	padding: 20px;
-	border: 5px solid #000;
+.h2{
+	color: white;
+	font-weight: 1000;
+	border: 0px solid #000;
+	border-radius: 5px;
+	margin: 6% 0% 0% 0%;
+	text-align: center;
+	font-size: 50px;
 }
