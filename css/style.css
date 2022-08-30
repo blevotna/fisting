@@ -37,7 +37,7 @@ h1,h2,h3,h4,h5,h6{font-size:inderit;font-weight: 400;}
 
 body{
 	font-size: 20px;
-	padding: 3%;
+	padding: 2%;
 	background: gray;
 	height: 3000px;
 	width: 980px;
@@ -46,13 +46,13 @@ body{
 .block{
 	color: white;
 	font-weight: 1000;
-	font-size: 80px;
-	box-shadow: 0 0 10px #000;
+	font-size: 75px;
+	box-shadow: 10px #000;
 	border-radius: 15px;
 	height: 130px;
 	background: black;
 	width: 100%;
-	padding: 1% 10% 0% 10%;
+	padding: 2% 10% 0% 18%;
 }
 .block1{
 	font-size: 30px;
