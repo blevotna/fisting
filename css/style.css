@@ -52,11 +52,10 @@ body{
 	height: 130px;
 	background: black;
 	width: 100%;
-	text-align: center;
-	padding: 0% 0% 0% 0%;
+	padding: 1% 10% 0% 10%;
 }
 .block1{
-	font-size: 25px;
+	font-size: 30px;
 	color: red;
 	border-radius: 5px;
 	height: 10%;
@@ -66,8 +65,8 @@ body{
 	padding: 10px;
 }
 .block2{
-	font-size: 25px;
-	color: black;
+	font-size: 30px;
+	color: blue;
 	border-radius: 5px;
 	height: 10%;
 	background: darkgray;
@@ -96,4 +95,47 @@ body{
 	margin: 6% 0% 0% 0%;
 	text-align: center;
 	font-size: 50px;
+}
+.p1{
+	margin: 1% 0% 4% 1%;
+	color: white;
+	font-size: 30px;
+	font-weight: 1000;
+	border-top: 3px solid red;
+	width: 97%;
+	padding: 2% 0% 0% 0%;
+}
+.img1{
+	height: 45%;
+	width: 46%;
+	border: 0px solid black;
+	border-radius: 5% 5% 0% 0%;
+	margin: 0% 0% 0% 3%;
+}
+.expon1{
+	color: white;
+	border: 0px solid black;
+	font-size: 35px;
+	margin: 0% 51% 0% 3%;
+	border-radius: 0% 0% 15px 15px; 
+	background: black;
+	text-align: center;
+	height: 1.5%;
+}
+.img2{
+	height: 318px;
+	width: 46%;
+	border: 0px solid black;
+	border-radius: 5% 5% 0% 0%;
+	margin: -39% 0% 0% 52%;
+}
+.expon2{
+	color: white;
+	border: 0px solid black;
+	font-size: 35px;
+	margin: -6.7% 2% 0% 52%;
+	border-radius: 0% 0% 15px 15px; 
+	background: black;
+	text-align: center;
+	height: 1.5%;
 }
